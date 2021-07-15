@@ -11,6 +11,10 @@ Released closed milestones can be found on [GitHub](https://github.com/Icinga/ic
 
 [Issue and PRs](https://github.com/Icinga/icinga-powershell-framework/milestone/15?closed=1)
 
+### Enhancements
+
+* [#303](https://github.com/Icinga/icinga-powershell-framework/pull/303) Adds support to parse arrays to Icinga Check thresholds functions like `WarnOutOfRange` and adds two new functions `WarnDateTime` and `CritDateTime`, for easier comparing of time stamps.
+
 ## 1.5.2 (2021-07-09)
 
 ### Security Fixes
